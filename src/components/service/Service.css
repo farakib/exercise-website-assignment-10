@@ -1,0 +1,14 @@
+.service{
+    background-color: black;
+    border-radius: 2px solid black;
+    padding-top: 10px;
+}
+.service img{
+    height:250px;
+    width: 100%px;
+    border-radius: 2px;
+}
+.service h3, p {
+    color: white;
+    
+}

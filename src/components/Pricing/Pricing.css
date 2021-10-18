@@ -1,0 +1,30 @@
+.pricing{
+    background-color: black;
+    padding-bottom: 35px;
+}
+.card{
+    background-color:black;
+    border:1px solid whitesmoke;
+}
+.icon{
+    width:80px;
+    height:80px;
+    background: red;
+    border-radius: 50px;
+    display: inline-block;
+    position: relative;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 30px;
+    line-height: 80px;
+    text-align: center;
+
+}
+.check-icon{
+    color: red;
+    margin: left 2px;
+    margin-right: 10px;
+}
+.month{
+    color: red;
+}
