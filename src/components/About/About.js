@@ -7,7 +7,7 @@ const About = () => {
         fetch('https://raw.githubusercontent.com/farakib/fakedata-for-assignment10/main/about.json')
         .then(res => res.json())
         .then(data => setImage(data));
-    })
+    }, [])
     return (
         <div className="about-section row p-5">
             <div className="col-md-6 col-sm-12">

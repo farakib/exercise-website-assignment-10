@@ -24,9 +24,7 @@ const Pricing = () => {
                            <p><span className="check-icon">{<FontAwesomeIcon icon={faCheck} />}</span>Weight Lossing Classes</p>
                            <p><span className="check-icon">{<FontAwesomeIcon icon={faCheck} />}</span>Month tob month</p>
                        </div>
-                      <div className="button-join">
-                      <Button>JOIN NOW</Button>
-                      </div>
+                     
                      </Card.Body>
                      
                    </Card>
@@ -44,9 +42,7 @@ const Pricing = () => {
                            <p><span className="check-icon">{<FontAwesomeIcon icon={faCheck} />}</span>Weight Lossing Classes</p>
                            <p><span className="check-icon">{<FontAwesomeIcon icon={faCheck} />}</span>Month tob month</p>
                        </div>
-                       <div className="button-join">
-                      <Button>JOIN NOW</Button>
-                      </div>
+                    
                      </Card.Body>
                    </Card>
                  </Col>
@@ -63,9 +59,7 @@ const Pricing = () => {
                            <p><span className="check-icon">{<FontAwesomeIcon icon={faCheck} />}</span>Weight Lossing Classes</p>
                            <p><span className="check-icon">{<FontAwesomeIcon icon={faCheck} />}</span>Month tob month</p>
                        </div>
-                       <div className="button-join">
-                      <Button>JOIN NOW</Button>
-                      </div>
+                     
                      </Card.Body>
                    </Card>
                  </Col>
