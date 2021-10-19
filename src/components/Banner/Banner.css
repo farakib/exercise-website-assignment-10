@@ -1,7 +1,9 @@
 .banner-section{
     background-image: url(../../images/total-shape-TY_Ce5d2G-k-unsplash.jpg);
     background-size: cover;
-    height:650px;
+    background-repeat: no-repeat;
+    /* height:650px; */
+    height:100vh;
     padding-top:90px;
     position: relative fixed;
     opacity: 0.9;
@@ -9,4 +11,17 @@
 .banner-title{
     color: white;
     font-size:140px;
+}
+
+@media only screen and (max-width: 668px){
+    .banner-title{
+        font-size: 60px;
+       
+    }
+}
+@media only screen and (min-width:559px) and (max-width:752px){
+    .banner-title{
+        font-size: 80px;
+        padding-top:55px;
+    }
 }

@@ -1,0 +1,26 @@
+.brand-name{
+   color: #fff;
+}
+.header-navbar{
+    background: linear-gradient(to bottom, #950101 0%, #630102 50%, #3d0302 100%);
+    padding: 20px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 5px;
+    font-size:18px;
+    font-weight:500px;
+}
+@media only screen and (max-width:557px){
+    .header-navbar{
+        padding: 10px;
+    }
+}
+@media only screen and (min-width:559px) and (max-width: 752px){
+    .header-navbar{
+        padding: 10px;
+    }
+  
+    
+}

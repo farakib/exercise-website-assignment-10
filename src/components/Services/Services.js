@@ -9,6 +9,8 @@ const Services = () => {
         .then(data => setServices(data));
     }, [])
     return (
+
+            
         <div className="service-container">
             
             {
@@ -19,6 +21,7 @@ const Services = () => {
                 ></Service>)
             }
         </div>
+     
     );
 };
 

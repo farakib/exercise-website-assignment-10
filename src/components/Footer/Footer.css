@@ -1,0 +1,22 @@
+.footer-nav{
+    background-color: black;
+    padding-bottom: 90px;
+}
+.footer-nav a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: white;
+    padding: 10px 30px;
+    border: 1px solid rgb(122, 121, 121);
+    border-radius:5px;
+}
+.footer-nav a:hover{
+    background-color: rgb(219, 146, 146);
+}
+.footer-title{
+    color: white;
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    margin-bottom:0;
+}
